@@ -15,8 +15,11 @@ Components
 4.	Azure Synapse Pipeline: Orchestrates the ETL process.
 
 Sample Data Files
+
 •	sales_2024_01.csv
+
 •	sales_2024_02.csv
+
 •	sales_2024_03.csv
 
 
